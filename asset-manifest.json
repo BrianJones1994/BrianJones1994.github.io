@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.dafa173f.js",
+    "main.js": "/static/js/main.3ee5cc31.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/typescript.jpg": "/static/media/typescript.92a73c2a69e1f277bbe5.jpg",
     "static/media/finance.jpg": "/static/media/finance.515a59663c709f7ff3a5.jpg",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/BrianJones.pdf": "/static/media/BrianJones.fb26c09d5d407ad051fc.pdf",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/AntoniDavis.pdf": "/static/media/AntoniDavis.54ad47262fd49b4867b2.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/shose.jpg": "/static/media/shose.81cbce650fda3dc8a52a.jpg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.dafa173f.js.map": "/static/js/main.dafa173f.js.map",
+    "main.3ee5cc31.js.map": "/static/js/main.3ee5cc31.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29bc8131.css",
-    "static/js/main.dafa173f.js"
+    "static/js/main.3ee5cc31.js"
   ]
 }
